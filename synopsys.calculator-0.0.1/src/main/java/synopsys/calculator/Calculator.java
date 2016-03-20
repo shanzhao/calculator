@@ -12,7 +12,7 @@ import synopsys.calculator.exception.ProcessException;
 import synopsys.calculator.parser.DefaultExpressionParser;
 
 /**
- * Calculator 
+ * Calculator main Class
  *
  */
 public class Calculator 
